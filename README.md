@@ -25,6 +25,7 @@ If there's something you think should be added, create a new issue or a pull req
 ### Articles
 
 - [How I Use Craft for Personal Idea/Knowledge Management](https://jessejanderson.medium.com/how-i-use-craft-for-personal-idea-knowledge-management-7f77cdc9031)
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 
 ### Extensions
 

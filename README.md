@@ -11,6 +11,7 @@ If there's something you think should be added, create a new issue or a pull req
 - [Extensions](#extensions)
 - [Podcasts](#podcasts)
 - [Utilities](#utilities)
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) - Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
 - [Videos](#videos)
 
 ### Official Craft Resources
@@ -25,7 +26,6 @@ If there's something you think should be added, create a new issue or a pull req
 ### Articles
 
 - [How I Use Craft for Personal Idea/Knowledge Management](https://jessejanderson.medium.com/how-i-use-craft-for-personal-idea-knowledge-management-7f77cdc9031)
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 
 ### Extensions
 
